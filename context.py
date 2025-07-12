@@ -11,3 +11,8 @@ class UserSessionContext(BaseModel):
     injury_notes: Optional[str] = None
     handoff_logs: List[str] = []
     progress_logs: List[Dict[str, str]] = []
+    fitness_goal: Optional[str] = None
+    fitness_level: Optional[str] = None
+    workout_days: Optional[int] = None
+    equipment: Optional[str] = None
+
