@@ -8,7 +8,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-api_key = os.getenv("API_KEY") or "sk-or-..."  # fallback if not set
+api_key = os.getenv("API_KEY") or "sk-or-..."
 base_url = "https://openrouter.ai/api/v1"
 model = "google/gemini-2.5-flash-lite-preview-06-17"  # or any other model you want
 
