@@ -19,15 +19,6 @@ This project is a **Health & Wellness Planner Agent** built using **Streamlit** 
 
 ---
 
-## Project Setup
-
-### Prerequisites
-
-To run the Health & Wellness Planner Agent, you need:
-
-- **Python 3.x** (preferably Python 3.7+)
-- **Streamlit**: A framework for creating the web app interface.
-- **OpenRouter SDK**: For connecting to OpenRouter’s AI models.
 
 
 
